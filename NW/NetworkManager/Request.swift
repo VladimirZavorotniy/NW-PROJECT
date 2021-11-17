@@ -11,3 +11,4 @@ enum Requests: String {
     case random = "everything"
     case top = "top-headlines?language=ru"
 }
+// comment

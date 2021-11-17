@@ -35,4 +35,4 @@ struct NewsContent: Decodable {
             //return lhs.id == rhs.id && lhs.name == rhs.name}
 
 }
-
+// comment

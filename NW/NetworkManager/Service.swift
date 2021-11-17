@@ -17,4 +17,5 @@ class Service {
     func requestNews(completion: @escaping(Result<NewsList,Error>)->Void){
         networkService?.request(path: Requests.top.rawValue, completion: completion)
     }
+    // comment
 }

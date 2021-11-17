@@ -15,5 +15,5 @@ struct NewsList: Decodable {
     enum CodingKeys : String, CodingKey {
          case articles
      }
-    
+    // comment
 }
